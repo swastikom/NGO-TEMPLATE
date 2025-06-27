@@ -1,0 +1,14 @@
+.donateModal{
+    .modal-dialog{
+        max-width: 80%;
+    }
+    .okButtonModal{
+        background-color: #1ac5ad;
+        border: 1px solid #1ac5ad;
+    }
+    .okButtonModal:hover{
+        background-color: #d9f105;
+        border: 1px solid #d9f105;
+        color: black;
+    }
+}

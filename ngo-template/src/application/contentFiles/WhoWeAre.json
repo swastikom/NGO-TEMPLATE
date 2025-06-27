@@ -1,0 +1,71 @@
+{
+    "aboutUs":"Kankura Masat Social Welfare Society (KMSWS) stands as a beacon of community-based development, having been established in 1999 by a group of like-minded individuals committed to addressing developmental challenges in the region. Nestled in the village of Kankura Masat within the South 24 Parganas district of West Bengal, our organization operates in a diverse community that faces environmentaly challenges and rich locations while being situated close to the Sunderban delta and the Bay of Bengal.Over the years, KMSWS has been unwavering in its dedication to community development, focusing on various thematic areas to uplift and empower the local population. Our initiatives span the spectrum, including a commitment to providing quality education, creating sustainable livelihood opportunities, and championing environmental conservation to combat climate change. We also actively work towards improving health-seeking behaviors and bolstering the public system to make development processes more accessible to and empowering for the community.In essence, KMSWS serves as a catalyst for positive change in the community, employing a holistic approach to address the multifaceted needs of the region. Through our concerted efforts, we aim to build a resilient and thriving community that can navigate the challenges posed by its unique environmental context.", 
+    "join":"Become a vital part of KMSWS & make a real difference to lives of many!",
+    "journey":"In the year 1999, inspired by a shared vision, Sajal Kanti Kayal and four enthusiastic youths initiated a transformative journey in the village of Kankura in Diamond Harbour. They launched a theatre group exclusively for women, aiming to elevate them from the confines of the kitchen to the forefront of society. The mission was clear—to instill leadership, self-confidence, self-respect, and the ability to amplify their voices within the community. As the theatre group made impactful strides, the team, led by Mr. Sajal and his friends, recognized the pressing need for quality education in the village. In 2000, they took a pioneering step by establishing Tiyas School. The name 'Tiyas,' meaning thirsty, encapsulated the essence of their mission: to provide the nourishing waters of education and knowledge to eager young minds. The school's vision extended beyond conventional learning, aiming to uplift society by nurturing responsible and well-educated citizens. Understanding the challenges faced by high school students without guidance at home, the team swiftly established a remedial center the following year. This center aimed to support students in comprehending their classroom learning, fostering a holistic approach to education. With their welfare activities gaining momentum, the team recognized the need for a more structured and organized approach. In 2003, on October 28th, their commitment culminated in the official registration of Kankura Masat Social Welfare Society under the  Society act of Government of West Bengal. This pivotal moment marked the formalization of their dedication to reaching more people with impactful services and welfare activities, solidifying their mission to bring positive change to the community.",
+    "vision":"Kankura Masat Social Welfare Society is dedicated to catalyzing community-driven sustainable development by promoting self-reliance, facilitating collective resource utilization, and ensuring equal access to opportunities, thereby empowering individuals for a thriving and inclusive future.",
+    "mission":"Kankura Masat Social Welfare Society strives to empower the community by unveiling their inherent potential and creating platforms that nurture the inner talents of deserving individuals, fostering a supportive environment for personal growth and development.",
+    "governingBody":[{
+        "name":"Pratangshu Bose",
+        "designation":"President",
+        "brief":"Mr. Pratangshu Bose is a dedicated thinker in development work. Although self-employed, he possesses great enthusiasm for community development. He plays a pivotal role in overseeing social activities and building networks and rapport with individuals and groups across the ecosystem. He graduated in commerce from Calcutta University."
+    },{
+        "name":"Madhumita Jana",
+        "designation":"Vice President",
+        "brief":"Ms.Madhumita Jana has been working on development projects for the last 10 years. She completed her postgraduate degree in Social Work and has been representing the organization in various forums to build networks and showcase our work. She is responsible for resource mobilization for the program. She loves music and is very passionate about making positive changes in society."
+    },{
+        "name":"Sajal Kanti Kayal",
+        "designation":"Secretary",
+        "brief":"Mr. Sajal is a seasoned development professional and founding member of the organization. He has been instrumental in transforming a community-based cultural club into a fully dedicated community development organization. He leads the organization from the forefront, bringing innovations for both the program and organizational development. He graduated from Calcutta University and worked as a freelancer in journalism."
+    },{
+        "name":"Pranab Kr Kayal",
+        "designation":"Treasurer",
+        "brief":"Mr. Pranab Kayal is one of the founding members and is helping the organization make positive changes in society. He is responsible for the organization's finances, compliance, and general affairs. He studied up to XII  grade and loves drawing and painting."
+    },{
+        "name":"Arup Barick",
+        "designation":"Member",
+        "brief":"Mr. Arup Barik has been a member of the organization since ....He is greatly involved in overseeing the program and building networks with external individuals. He pursued his graduation from City College in Kolkata. Arup is a passionate painter who enjoys meeting people to bring about sustainable changes in communities where social welfare facilities are not up to par."
+    },{
+        "name":"Mita Kayal Mandal",
+        "designation":"Member",
+        "brief":"Ms. Mita Kayal is one of the key members of the organization who has been tirelessly helping the organization reach the next level of development. Professionally, she is an ANM and has a great passion for providing healthcare support in the community. She connects with health professionals and assists the organization in implementing health-related programs on the ground. She shares critical insights into development issues that sharpen the development strategies of welfare projects in the community. She graduated from Calcutta University."
+    },{
+        "name":"Beauti Mondal",
+        "designation":"Member",
+        "brief":"Ms. Beauti Mondal is one of the members of the organization who loves social work and is involved in the organization's activities wholeheartedly. She studied BA and loves to cooking."
+    }],
+    "ourTeamBrief":"Our team consists of dedicated individuals committed to the mission of our Organization . Led by experienced professionals in the field of community development, our team comprises members with diverse backgrounds and expertise.",
+    "ourTeam":[{
+        "name":"Sajal Kanti Kayal",
+        "designation":"Chief Executive Officer",
+        "brief":"Mr. Sajal is a seasoned development professional and founding member of the organization. He has been instrumental in transforming a community-based cultural club into a fully dedicated community development organization. He leads the organization from the forefront, bringing innovations for both the program and organizational development. He graduated from Calcutta University and worked as a freelancer in journalism."
+    },{
+        "name":"Pranab Kr Kayal",
+        "designation":"Office Excecutive",
+        "brief":"Mr. Pranab Kayal is one of the founding members and is helping the organization make positive changes in society. He is responsible for the organization's finances, compliance, and general affairs. He studied up to XII  grade and loves drawing and painting."
+    },{
+        "name":"Madhumita Jana",
+        "designation":"Lead-Resource Mobilization",
+        "brief":"Ms.Madhumita Jana has been working on development projects for the last 10 years. She completed her postgraduate degree in Social Work and has been representing the organization in various forums to build networks and showcase our work. She is responsible for resource mobilization for the program. She loves music and is very passionate about making positive changes in society."
+    },{
+        "name":"Suparna Kayal",
+        "designation":"Finance Officer",
+        "brief":"Ms. Suparna is an active supporter of the organization. She postgraduated from Rabindra Bharati University University and is voluntarily assisting in the organization's finances."
+    },{
+        "name":"Pranita Mondal",
+        "designation":"Lead Women Empowerment",
+        "brief":"Ms. Pranita Mondal completed her grduation   from Calcutta University, with a passion for generating support for vulnerable women. She actively participates in various training programs and provides assistance to the trainees. Ms. Mondal also leads training sessions in various traditional and crafting techniques to empower women in the community."
+    },{
+        "name":"Madhusree Jana",
+        "designation":"Officer-Communication",
+        "brief":"Ms. Madhusree Jana takes care of internal and external communication through social media handles and publications on various platforms. She loves connecting people through development communication. Having graduated from Calcutta University, she has a passion for bringing about positive changes through development communication."
+    },{
+        "name":"Moumita Naskar",
+        "designation":"Office Assistant",
+        "brief":"Ms. Moumita Naskar is an honours graduate from Calcutta University. She is passionate about reading detective stories and listening to music. Ms. Naskar is responsible for managing the official activities of our education projects."
+    },{
+        "name":"Raju Sah",
+        "designation":"Lead- Agriculture",
+        "brief":"Mr. Raju is a vegetable farmer who has received training in natural farming from various institutions. He has equipped himself with various tools and techniques of agriculture and leads this vertical in the organization. A nature lover, he always enjoys being connected with the soil. Although he studied up to the twelfth grade, he possesses a remarkable understanding of soil health, crop diversification, and climate-adaptive farming."
+    }],
+    "ourSupportersBrief":"We extend our heartfelt gratitude to our esteemed donors, whose generosity and support have been instrumental in furthering our mission of creating positive social change. "
+}

@@ -1,0 +1,184 @@
+{
+    "education":[{
+        "label":"Tiyas School",
+        "description":"We have established Tiyas School to provide accessible and quality education to rural children in remote communities, surrounded by diverse socio-economic profiles engaged in agriculture, auto-rickshaw driving, fish collection, and daily wage labor. Many parents are first-generation learners with limited awareness of the 21st-century skills essential for their children. Our formal pre-primary and primary school annually supports 300 students and actively involves 200 parents, aiming to enhance parental guidance and sharpen children's minds.Our educational approach places a strong emphasis on activity-based teaching, fostering group activities, and providing hands-on exposure through diverse science-based and nature-based models. Students receive computer training, valuable education support, and actively participate in a range of co-curricular activities. To ensure continuous improvement, our teachers undergo regular training sessions to stay updated on the latest teaching methodologies and processes. Their passion for engaging in the teaching-learning process with these children at the school is evident, contributing to a vibrant and effective learning environment."
+    },{
+        "label":"Remedial Education",
+        "description":"We operate a remedial center catering to upper primary and higher-grade students in our designated areas. This center plays a crucial role in supporting students with their school assignments and enhancing their overall learning experience. With an annual enrollment of over 200 students, our remedial program is designed to provide targeted assistance, fostering academic improvement and helping students thrive in their studies.The center not only assist students in completing school assignments but also facilitate skill development through a mix of academic and extracurricular activities. Our dedicated teachers, specializing in subjects like science, language, and humanities, offer tailored support to help students clarify doubts and enhance their learning outcomes. Additionally, the centers underscore the significance of education and life skills, ensuring that students are well-rounded and equipped to make positive contributions to society.",
+        "teachers":[{
+            "name":"Sukumar Pramanik (Teacher)",
+            "ideology":"Sukumar, a determined young man, faced the daunting challenge of unemployment as he sought a job to support himself and his ailing father. Despite encountering numerous rejections, he remained resolute, valuing his skills and maintaining his perseverance.One day, Sukumar discovered an opportunity at a remedial center operated by the Kankura Masat Social Welfare Society. Motivated by the chance to make a meaningful impact, he applied for a position and, defying the odds, was offered a role as a teacher. Grateful for the opportunity to assist others while also supporting his father, Sukumar embraced his new role with enthusiasm and commitment.As he engaged with his students and witnessed their progress, Sukumar discovered a profound sense of purpose and fulfillment. Transitioning from unemployed youth to a dedicated teacher serving a noble cause, he not only achieved financial stability but also became a source of hope for those under his care. Ultimately, Sukumar's journey not only transformed his own life but also enriched the lives of many others through the transformative power of education and compassion."
+        },{
+            "name":"Uday Dalui (Teacher)",
+            "ideology":"As a teacher in the remedial education program, I am proud to be associated with KMSWS. The organization has empowered us to provide activity-based learning support to our students, resulting in significant improvements in their learning outcomes. Many of our students come from marginalized families, and it brings me immense pleasure to be able to provide them with holistic development support. KMSWS has truly made a difference in the lives of these students, and I am grateful to be a part of this impactful work."
+        }]
+        },{
+            "label":"Scholarship Support",
+            "description":"Our scholarship program aims to alleviate financial burdens on students by providing crucial financial assistance. Designed to support academic pursuits, this scholarship offers a valuable opportunity for deserving individuals to access quality education without the constraints of financial limitations. We believe in fostering equal opportunities, empowering students to focus on their studies and achieve their full potential."
+        },{
+            "label":"Career Counselling Support",
+            "description":"Our career counseling support for secondary and higher secondary students is a comprehensive initiative geared towards guiding young minds in making informed decisions about their future. Through personalized counseling sessions, we aim to help students explore their interests, skills, and aspirations, providing insights into various career paths. Our goal is to empower students with the knowledge and confidence needed to make well-informed choices, ensuring a smooth transition from secondary to higher secondary education and beyond."
+        }],
+    "livelihood":[
+        {
+            "label":"Natural Farming",
+            "description":"KMSWS adopts natural farming as an agricultural approach that emphasizes working with nature rather than against it. This method typically involves minimal or no synthetic inputs, such as chemical fertilizers and pesticides, and focuses on building and maintaining healthy, fertile soil. Practices often associated with natural farming include cover cropping, crop rotation, composting, and the use of organic materials to enhance soil health.The alignment of natural farming depends on local climate factors, such as temperature, precipitation, and soil type. Adapting natural farming techniques to the specific climate conditions of an area can contribute to sustainable and resilient agricultural systems.We integrate local farmers with traditional and indigenous knowledge into their natural farming practices to enhance effectiveness in the specific climatic context.",
+            "testimonial":"Before I engaged in sustainable agriculture practices, I struggled to support my family with traditional farming methods. Despite my passion for sustainable agriculture, I lacked the necessary resources to make it a reality. However, thanks to the training programs offered by Kankura Masat Social Welfare Society, I gained invaluable knowledge in organic farming, efficient irrigation techniques, and the use of locally-sourced organic fertilizers.The impact was immediate and transformative. With the implementation of sustainable practices, I witnessed a remarkable 30% increase in my crop yield. This newfound success not only provided a stable income for my family but also allowed me to prioritize my children's education and invest in further improving our agricultural methods.I am deeply grateful to Kankura Masat Social Welfare Society and its supporters for empowering me with the knowledge and resources to transform my life and contribute to the well-being of our community."
+        },
+        {
+            "label":"Skill Development",
+            "description":"We provide skill development training with a focus on acquiring technical skills and enhancing the abilities, knowledge, and expertise necessary for effective task performance. Recognizing its significance in personal and professional growth, our programs contribute to increased employability, adaptability, and overall success.",
+            "testimonial":{
+                "name":"Suparna Kurali",
+                "description":"Meet Suparna, a resilient young woman with a fighting spirit, born into challenging circumstances. Determined to carve out her own path and support her family, Suparna's unwavering positivity and hardworking nature set her apart.When her family's home was ravaged by the devastating cyclone Amphan, and her father lost his job due to the pandemic-induced lockdown, Suparna faced even greater challenges. However, she refused to be defeated by adversity.Taking charge of her destiny, Suparna seized the opportunity to enroll in a tailoring course offered by KMSWS as part of their post-Amphan rehabilitation project. Through this initiative, she not only learned new techniques and designs but also honed her skills to a professional level.Equipped with these invaluable skills, Suparna embarked on a journey of empowerment. With determination and resilience, she launched her own home-based business, showcasing her creations in various platforms. Her entrepreneurial spirit not only sustains her family but also serves as an inspiration to others in similar circumstances."
+            },
+            "aspects":[
+                {
+                    "label":"Industry-Relevant Skills:",
+                    "descrpition":"We meticulously assess market opportunities to design skill development coursework that ensures employability upon completion. Our training encompasses a range of fields, including tailoring, beautician, sanitary napkin production, crafting ornaments with fish scales, and traditional cloth printing."
+                },
+                {
+                    "label":"Soft Skills:",
+                    "descrpition":"Beyond technical competencies, our programs empower beneficiaries with industry-relevant soft skills. These encompass qualities such as confidence, effective communication, politeness, teamwork, and adaptability — all of which are crucial for success in various professional settings.By aligning our skill development offerings with market demands, we aim to not only equip individuals with practical, job-ready skills but also enhance their interpersonal attributes. This comprehensive approach prepares our beneficiaries to thrive in diverse professional environments, fostering a holistic development that goes beyond the purely technical aspects of their chosen vocations."
+                }
+            ]
+        }
+    ],
+    "health":[
+        {
+            "label":"Health Camp",
+            "description":"We organize periodic health camp in the community that  is a structured and recurring initiative aimed at providing essential healthcare services and promoting wellness within community.Key features of a periodic health camp include:",
+            "content":[
+                {
+                    "label": "Regular Schedule:",
+                    "definition": "Health camps are organized at regular intervals, whether monthly, quarterly, or annually, to ensure consistent access to healthcare services for community members."
+                },
+                {
+                    "label": "Preventive Healthcare:",
+                    "definition": " The focus extends beyond addressing existing health issues to preventive healthcare measures. Activities may include health screenings, vaccinations, and health education to raise awareness about maintaining a healthy lifestyle."
+                },
+                {
+                    "label": "Diverse Services:",
+                    "definition": "Health camps typically offer a range of services, including general health check-ups, blood pressure monitoring, blood sugar testing, dental check-ups, eye examinations, and other screenings based on the prevalent health needs of the community."
+                },
+                {
+                    "label": "Specialized Care:",
+                    "definition": "Depending on community health needs, periodic health camps may include specialized services such as gynecological check-ups, pediatric care, and consultations with specialists. These services enhance the camp's ability to address a wide range of health concerns."
+                },
+                {
+                    "label": "Community Engagement:",
+                    "definition": "Health camps encourage active participation and engagement from the community. They may involve local healthcare professionals, volunteers, and organizations collaborating to create a supportive and informative environment."
+                },
+                {
+                    "label": "Accessibility:",
+                    "definition": "By bringing healthcare services directly to the community, health camps improve accessibility for individuals who may face barriers to regular medical care, such as transportation issues or financial constraints."
+                },
+                {
+                    "label": "Promotion of Healthy Habits:",
+                    "definition": "Health camps often incorporate health education sessions to promote healthy habits and preventive measures. These sessions may cover topics such as nutrition, hygiene, sanitation, and the importance of regular exercise."
+                },
+                {
+                    "label": "Referral System:",
+                    "definition": "Health camps can establish a referral system to connect individuals with more specialized medical care if needed. This ensures that individuals with identified health issues receive appropriate follow-up and treatment."
+                },
+                {
+                    "label":"",
+                    "definition":"Overall, periodic health camps play a crucial role in promoting community health, preventing diseases, and fostering a culture of well-being. They serve as a proactive approach to healthcare delivery, particularly in areas where access to regular medical services may be limited."
+                }
+            ]
+        },
+        {
+            "label":"PMJAY",
+            "description":"We facilitate a goverment scheme called as ''Pradhan Mantri Jan Aushadhi Yojana (PMJAY)''  that aims  at making quality generic medicines accessible to the public at affordable prices. Under this scheme, a Jan Aushadhi Kendra (generic medicine stores) is set up at our campus which provides a range of generic medicines at lower costs.The store operates with the goal of promoting the use of generic drugs and reducing healthcare expenses for the general population."
+        }
+    ],
+    "womenEmpowerment":[
+        {
+            "label":"Empowering Self-Help Groups (SHGs)",
+            "description":"in rural communities is a transformative approach that fosters economic independence, social cohesion, and sustainable development. SHGs are small, community-based organizations comprising individuals with similar socio-economic backgrounds who come together to address common issues. ",
+            "components":[
+                {
+                    "label1": "Key components of this empowerment process include:",
+                    "label":"Formation and Capacity Building",
+                    "desc":"The journey begins with the formation of SHGs, bringing together individuals with shared socio-economic interests. Capacity-building initiatives are crucial, providing training in various areas such as financial literacy, entrepreneurship, and skill development."
+                },
+                {
+                    "label":"Credit Linkage",
+                    "desc":"We facilitate credit linkage for the SHG empowerment. Connecting these groups to formal financial institutions or government schemes enables them to access capital for entrepreneurial ventures, agriculture, or other income-generating activities."
+                },
+                {
+                    "label":"Skill Enhancement",
+                    "desc":"Ongoing skill development is essential for SHG members to adapt to changing market demands. Our Training programs that focus on upgrading existing skills or acquiring new ones contribute to the sustainability of income-generating projects."
+                },
+                {
+                    "label":"Community Engagement",
+                    "desc":"SHGs often extend their impact beyond economic activities to address social issues. Engaging in community development projects, healthcare initiatives, and education programs enhances the overall well-being of the community."
+                },
+                {
+                    "label":"Market Linkages",
+                    "desc":"Creating linkages with markets ensures that SHG products and services reach a broader consumer base. This involves connecting SHGs with local markets, retailers, and even online platforms, enhancing their market visibility."
+                },
+                {
+                    "label":"Financial Inclusion",
+                    "desc":"Besides credit linkage, promoting financial inclusion involves encouraging saving habits within SHGs. Savings contribute to a collective fund that members can leverage for emergencies or further investment in their projects."
+                },
+                {
+                    "label":"Government Schemes",
+                    "desc":"Facilitating access to government schemes and programs provides SHGs with additional resources and support. Awareness and assistance in availing benefits from various schemes contribute to the overall development of the group."
+                },
+                {
+                    "label":"",
+                    "desc":"In summary, empowering SHGs in rural communities is a holistic approach that combines financial inclusion, skill development, and community engagement. By fostering self-reliance and entrepreneurship, SHGs become catalysts for positive change, not only within the group but also in the larger community they serve."
+                }
+            ]
+        }
+    ],
+    "envDisasterResponse":[
+        {
+            "label": "Environment",
+            "content":[
+                {
+                    "label": "Climate Resilience Through Tree Plantation",
+                    "desc":"In our commitment to advancing tree planting initiatives in South 24 Parganas district, we recognize the profound impact on climate resilience. By strategically planting diverse tree species such as Jhau, Siris, Peach, and Neem, we aim to fortify the region against cyclones. These trees act as nature's barrier, reducing wind speeds and minimizing the impact of cyclones, enhancing the overall resilience of our community."
+                },
+                {
+                    "label": "Medicinal Plants for Well-being",
+                    "desc":"Our dedication goes beyond environmental enrichment; it extends to the well-being of our villagers.  In our assortment of saplings, we've included medicinal plants known for their healing properties.  These plants not only contribute to the overall health and nutrition of the community but also serve as a natural pharmacy, promoting holistic well-being. Together, let's nurture a climate-resilient community and embrace the healing power of nature!"
+                }
+            ]
+        },
+        {
+            "label": "Disaster Response",
+            "description":"In the face of adversity, we stand united in providing comprehensive disaster response support during the Yass and Amphan cyclones, as well as the ongoing challenges of the Covid-19 pandemic.",
+            "content":[
+                {
+                    "label": "Yass and Amphan Cyclones:",
+                    "desc":"In the aftermath of Yass and Amphan, we swiftly mobilized to provide crucial assistance. Our focus was on distributing dry ration kits to affected communities, ensuring that essential food items reached those in need. Simultaneously, we recognized the importance of mental well-being during these challenging times and initiated support services to address emotional needs."
+                },
+                {
+                    "label": "Covid-19 Pandemic:",
+                    "desc":"As the Covid-19 pandemic unfolded, we extended our efforts to combat the health crisis. Beyond distributing dry ration kits, we prioritized the provision of hygiene essentials to curb the virus's spread. Understanding the toll on mental health, we also implemented programs offering psychological support and counseling to help individuals cope with the stress and uncertainty."
+                },
+                {
+                    "label": "Community Resilience:",
+                    "desc":"Our approach went beyond immediate relief; we focused on building community resilience. By engaging with local communities, we provided not only physical sustenance but also emotional support. Empowering individuals with the tools to navigate these crises, we aimed to foster a sense of solidarity and well-being."
+                },
+                {
+                    "label": "",
+                    "desc":"Together, through your support and our collective efforts, we strive to stand strong in the face of adversity, providing not just relief but a foundation for recovery and resilience."
+                }
+            ]
+        }
+        
+    ],
+    "careProtection":[
+        {
+            "label":"Care & Protection",
+            "description":"Kankura Masat Social Welfare Society NGO stands committed to a noble cause - the distribution of clothes to the elderly and children during various auspicious occasions in the Bengali calendar. This endeavor is a celebration of compassion, weaving threads of generosity into the fabric of community welfare.Through the avenue of clothes distribution, this organization imparts the gift of a better life to the elderly and children, illuminating every chapter of their lives.Kankura Masat Social Welfare Society NGO is a testament to the power of social commitment, using the distribution of clothes as a medium to stride towards a healthier, empowered, and happier society."
+        },
+        {
+            "label":"Purnima Mondal",
+            "testimonial":"Purnima lived in a small hut in a nearby village in Masat. Along with her husband, their children, and even their in-laws, they all struggled to make ends meet every single day. They wore old, torn clothes that got worse with each passing season.KMSWS has come forward and provided Purnima's family with new clothes, bringing a sense of hope and dignity. We also feel honored to provide support to those who need it most."
+        }
+    ]
+}

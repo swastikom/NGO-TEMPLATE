@@ -1,0 +1,107 @@
+{
+    "IndividualSupport": {
+        "label": "Individual Support",
+        "description": "Kankura Masat Social Welfare Society relies on the generosity and commitment of individuals who share a belief in its mission of making a positive impact in various communities. Here's an in-depth guide on how individuals can actively contribute to and support our cause:",
+        "tasks": [
+            {
+                "label": "Monetary Contributions",
+                "desc": "Financial support is a cornerstone for the success of Kankura Masat Social Welfare Society. Your donations directly contribute to funding essential initiatives, including education, livelihood and  health programme"
+            },
+            {
+                "label": "Volunteer Engagement",
+                "desc": "Dedicate your time and skills to meaningful projects. Whether it's teaching, organizing events, or assisting in disaster responses, your hands-on involvement can make a tangible difference."
+            },
+            {
+                "label": "Community Fundraising",
+                "desc": "Empower your community by organizing fundraisers. These events not only raise vital resources but also serve as platforms to raise awareness about KMSWS projects and goals."
+            },
+            {
+                "label": "Awareness Ambassadorship",
+                "desc": "Become a proactive advocate for our cause by utilizing your personal networks and platforms. Share compelling stories and successes of KMSWS to attract more supporters and broaden the reach of the organization."
+            },
+            {
+                "label": "Skill-Based Contributions",
+                "desc": "Offer your professional expertise to enhance the efficiency and impact of Kankura Masat Social Welfare Society. Your skills, whether in marketing, technology, or any other field, can be instrumental in advancing the organization's mission."
+            },
+            {
+                "label": "In-Kind Donations",
+                "desc": "Contribute goods or services that align with the needs of the organization. This could include supplies, equipment, or professional services that support specific projects."
+            },
+            {
+                "label": "Advocacy and Networking",
+                "desc": "Act as a voice for the cause within your social circles. Engage with policymakers, participate in advocacy campaigns, and leverage your network to create a broader base of support."
+            }
+        ]
+    },
+    "CorporateSupport": {
+        "label": "Corporate Support",
+        "description": "Corporate support is crucial in helping Kankura Masat Social Welfare Society (KMSWS) achieve its mission. Corporates can integrate their CSR goals with KMSWS's endeavors in the following ways:",
+        "tasks": [
+            {
+                "label": "Project Sponsorship",
+                "desc": "Corporates can fund specific initiatives that align with their CSR objectives. This targeted support ensures that the company's resources are directly contributing to projects that resonate with their values and goals."
+            },
+            {
+                "label": "Skill Sharing",
+                "desc": "Companies can leverage their pool of professionals to mentor or train beneficiaries associated with KMSWS. This collaboration allows for the exchange of expertise, empowering individuals and enhancing the impact of the NGO's programs."
+            },
+            {
+                "label": "Infrastructure Donations",
+                "desc": "Contribute tangible assets such as equipment, technology, or infrastructure that can augment KMSWS's operations. This type of support enhances the NGO's capacity to deliver its services effectively."
+            },
+            {
+                "label": "Matched Donations",
+                "desc": "Encourage employees to participate in fundraising initiatives or make individual donations by implementing a matching gifts program. When employees contribute, the company matches their donations, effectively doubling the impact of their support."
+            }
+        ]
+    },
+    "volunteers": {
+        "label": "Volunteers and Internships",
+        "description": "At Kankura Masat Social Welfare Society (KMSWS), we strongly believe in the transformative power of collective effort. Volunteers and interns bring fresh perspectives, enthusiasm, and diverse skill sets that are integral to the success and growth of our initiatives.",
+        "volOpportunities": "Volunteer Opportunities:",
+        "volunteerOpportunities": [
+            {
+                "label": "Community Engagement",
+                "desc": "Engage directly with the communities we serve through fieldwork. Contribute to workshops, awareness campaigns, and other on-ground activities to make a meaningful impact."
+            },
+            {
+                "label": "Skill-based Volunteering",
+                "desc": "Lend your expertise in areas such as IT, communication, design, research, and more. Your skills can enhance our operations and outreach, furthering the impact of our programs."
+            },
+            {
+                "label": "Advocacy and Awareness",
+                "desc": "Become a passionate advocate for our cause. Organize events, spread our message within your network, and amplify our voice to raise awareness and support."
+            }
+        ],
+        "InternOpportunities": "Internship Opportunities:",
+        "InternalTasks": [
+            {
+                "label": "Research & Development",
+                "desc": "Work on specific projects, gather data, and contribute to the analytical aspects of our initiatives. Interns in this role play a vital part in shaping the future direction of our programs."
+            },
+            {
+                "label": "Operational Support",
+                "desc": "Gain hands-on experience in NGO management, from fundraising strategies to event management. This internship provides a comprehensive understanding of the operational aspects crucial to our organization's success."
+            },
+            {
+                "label": "Community Engagement",
+                "desc": "Foster direct relationships with our beneficiaries. Understand their needs and feedback to inform our strategies, ensuring our initiatives are aligned with the real needs of the communities we serve."
+            }
+        ]
+    },
+    "workWithUs": {
+        "label": "Work with Us",
+        "description": "Joining Kankura Masat Social Welfare Society (KMSWS) means becoming a vital part of a passionate team dedicated to creating positive change in communities. At KMSWS, we value collaboration, innovation, and a shared commitment to making a meaningful impact. If you wish to join our team, please send your CV to our email address."
+    },
+    "donateUs":{
+        "text":"We are proudly non-profit,non-corporate and non-compromised.Thousands of people like you help us stand for successful social upliftment for the needy community to change livelihood and education.We rely on donations to carry out our mission. Will you give today? Feel free to make a donation.",
+        "bankInfo":{
+            "name":"KANKURA MASAT SOCIAL WELFARE SOCIETY",
+            "bnkName":"IDBI Bank",
+            "branch":"Amtala Vishnupur, Dist-24parganas(s), (Kolkata)",
+            "AC":"0258104000046640",
+            "ifsc":"IBKL0000258",
+            "micr":"700259011"
+        }
+    }
+}

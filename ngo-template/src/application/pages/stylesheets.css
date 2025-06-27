@@ -1,0 +1,35 @@
+/* h1.jumbo{
+    color:aliceblue !important ;
+    background-color: #0bcba6;
+    text-align: center;
+    
+    text-decoration-color: bisque;
+    
+}
+.navbar  a.active {
+    color: rgb(34 197 94);
+   }
+p.carousel-item{
+    text-align: center;
+    font-size: x-large;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: 900;
+    font: 800;
+    color: brown !important;
+}
+h1.carousel-inner{
+    color: blue;
+}
+#carouselExampleCaptions > div{
+    color: blueviolet;
+}
+.carousel-caption{
+    color:brown;
+}
+#root{
+    background-image:linear-gradient(to right,#0bcba6,white,#0bcba6);
+}
+.bigbox
+{
+    background-image:linear-gradient(to right,#0bcba6,white,#0bcba6);
+} */
